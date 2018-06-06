@@ -216,7 +216,7 @@ First, add the service configuration package:
 meteor add service-configuration
 ```
 
-Then, in your app (this example is for the Weebo service):
+Then, in your app (this example is for the Weibo service):
 
 ```js
 ServiceConfiguration.configurations.upsert(
